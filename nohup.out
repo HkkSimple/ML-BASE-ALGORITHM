@@ -1,0 +1,142 @@
+[I 13:42:12.702 NotebookApp] [nb_conda_kernels] enabled, 2 kernels found
+[W 13:42:13.091 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 13:42:13.157 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 13:42:13.157 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named nbbrowserpdf.exporters.pdf
+[I 13:42:13.162 NotebookApp] [nb_conda] enabled
+[I 13:42:13.220 NotebookApp] [nb_anacondacloud] enabled
+[I 13:42:13.226 NotebookApp] Serving notebooks from local directory: /home/hkk/algorithm
+[I 13:42:13.227 NotebookApp] 0 active kernels 
+[I 13:42:13.227 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 13:42:13.227 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 13:42:31.633 NotebookApp] Creating new directory in 
+[I 13:46:09.901 NotebookApp] Creating new notebook in /ensemble
+[I 13:46:10.571 NotebookApp] Kernel started: 66bbffb8-2ee8-4290-9f4f-446005655d10
+[I 13:48:10.528 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 14:47:10.168 NotebookApp] Saving file at /data/test_ID3_1.0
+[I 16:14:15.042 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:16:15.175 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:17:44.215 NotebookApp] Kernel started: 678b16f6-806e-404a-9079-39e562023ba2
+[I 16:18:15.045 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:23:16.539 NotebookApp] Uploading file to /tree/ID3_1.0.py
+[I 16:26:15.062 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:28:15.061 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:30:15.068 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:32:15.083 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:35:21.926 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:35:38.460 NotebookApp] New terminal with automatic name: 1
+[I 16:37:15.802 NotebookApp] Saving file at /tree/ID3_1.py
+[I 16:37:21.954 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:39:21.986 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:41:21.986 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:43:21.976 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:47:21.977 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:49:22.019 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:51:22.057 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:53:22.009 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:55:22.287 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 16:59:22.003 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:01:22.014 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:03:22.418 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:05:22.042 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:06:06.929 NotebookApp] Saving file at /data/西瓜数据集3.0
+[I 17:06:32.577 NotebookApp] Creating new file in /data
+[I 17:06:36.684 NotebookApp] Saving file at /data/untitled.txt
+[I 17:07:22.162 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:09:22.056 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:11:22.066 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:13:22.041 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:15:22.096 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:17:22.101 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:17:58.133 NotebookApp] Saving file at /data/西瓜数据集_testdata
+[I 17:19:22.064 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:21:22.153 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:25:22.201 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:26:58.269 NotebookApp] Saving file at /data/西瓜数据集3.0
+[W 17:27:08.159 NotebookApp] delete /data/西瓜数据集_testdata
+[I 17:27:22.050 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:29:22.055 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:31:22.287 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:33:22.055 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:35:22.167 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:37:22.106 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:39:22.096 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:41:22.097 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:43:22.091 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:45:22.366 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:47:22.092 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:49:22.099 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:51:22.239 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:53:22.104 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:55:22.216 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:57:22.115 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 17:59:22.138 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:01:22.615 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:03:22.319 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:05:22.314 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:07:22.233 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:27:22.200 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:35:22.216 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:37:22.230 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:39:22.225 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:41:22.536 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:43:22.247 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:49:22.252 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:51:22.250 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:53:22.256 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:57:22.268 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 18:59:22.273 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:01:22.282 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:01:23.197 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:03:22.285 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:07:22.288 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:09:22.298 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:11:22.304 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:17:22.333 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:49:22.446 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:51:22.631 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:53:22.557 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:55:22.409 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:57:22.537 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 19:59:27.864 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:01:22.427 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:03:22.494 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:05:42.720 NotebookApp] Saving file at /data/西瓜数据集3.0
+[I 20:07:22.455 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:07:37.248 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:09:22.450 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:11:22.475 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:13:22.464 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:17:22.602 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:19:22.468 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:21:22.478 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:23:22.483 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:25:22.482 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:27:22.491 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:29:22.500 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:31:22.507 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:33:22.504 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:35:22.523 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:37:22.520 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:39:22.522 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:41:22.526 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:43:22.536 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:45:22.539 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:53:22.555 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:55:22.593 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 20:59:22.591 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:01:22.578 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:03:22.586 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:05:22.666 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:07:22.589 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:11:22.601 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:13:22.604 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:15:22.613 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:23:22.630 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:25:22.644 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:27:22.641 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:29:22.647 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[I 21:59:22.763 NotebookApp] Saving file at /ensemble/AdaBoosting.ipynb
+[C 21:59:47.870 NotebookApp] received signal 15, stopping
+[I 21:59:47.874 NotebookApp] Shutting down kernels
+[I 21:59:47.875 NotebookApp] Kernel shutdown: 678b16f6-806e-404a-9079-39e562023ba2
+[I 21:59:47.980 NotebookApp] Kernel shutdown: 66bbffb8-2ee8-4290-9f4f-446005655d10
